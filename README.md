@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abubakr Khanooni</h1>
 <h3 align="center">Enthusiastic about AI and ML, diving deep into Reinforcement Learning to unravel the potential of intelligent systems</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4792trokyt2wi0dt801dwr00jrsqt10b5pdg2tuepo&rid=giphy.gif&ct=g"> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakr1934&label=Profile%20views&color=0e75b6&style=flat" alt="abubakr1934" /> </p>
 
 - 🌱 I’m currently learning **Reinforcement Learning and Neural Networks**
 
