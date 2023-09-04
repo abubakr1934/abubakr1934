@@ -22,10 +22,7 @@
 <a href="https://linkedin.com/in/abubakr mohammad waseem khanooni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abubakr mohammad waseem khanooni" height="30" width="40" /></a>
 <a href="https://instagram.com/abubakrkhanooni.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abubakrkhanooni.eth" height="30" width="40" /></a>
 </p>
-![](https://github-readme-stats.vercel.app/api?username=abubakr1934&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abubakr1934&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakr1934&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<br/>
+
 <a href="https://github.com/abubakr1934/github-readme-activity-graph"><img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=sahilhedau49&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
